@@ -1,0 +1,7 @@
+/* for more spacious conversation windows (http://kb.mozillazine.org/index.php?title=UserContent.css) */
+@-moz-document domain(hangouts.google.com) {
+        div.Cl{
+                width: 50% !important;
+                height: 90% !important;
+        }
+}
